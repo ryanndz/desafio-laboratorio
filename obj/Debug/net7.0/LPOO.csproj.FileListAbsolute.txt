@@ -1,0 +1,14 @@
+C:\Users\Aluno.torres\LPOO\obj\Debug\net7.0\LPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.torres\LPOO\obj\Debug\net7.0\LPOO.AssemblyInfoInputs.cache
+C:\Users\Aluno.torres\LPOO\obj\Debug\net7.0\LPOO.AssemblyInfo.cs
+C:\Users\Aluno.torres\LPOO\obj\Debug\net7.0\LPOO.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.torres\LPOO\bin\Debug\net7.0\LPOO.exe
+C:\Users\Aluno.torres\LPOO\bin\Debug\net7.0\LPOO.deps.json
+C:\Users\Aluno.torres\LPOO\bin\Debug\net7.0\LPOO.runtimeconfig.json
+C:\Users\Aluno.torres\LPOO\bin\Debug\net7.0\LPOO.dll
+C:\Users\Aluno.torres\LPOO\bin\Debug\net7.0\LPOO.pdb
+C:\Users\Aluno.torres\LPOO\obj\Debug\net7.0\LPOO.dll
+C:\Users\Aluno.torres\LPOO\obj\Debug\net7.0\refint\LPOO.dll
+C:\Users\Aluno.torres\LPOO\obj\Debug\net7.0\LPOO.pdb
+C:\Users\Aluno.torres\LPOO\obj\Debug\net7.0\LPOO.genruntimeconfig.cache
+C:\Users\Aluno.torres\LPOO\obj\Debug\net7.0\ref\LPOO.dll
